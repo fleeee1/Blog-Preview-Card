@@ -3,15 +3,18 @@ body {
 }
 
 .yellow-container {
+    flex: auto;
+    justify-content:center;
     background-color: Yellow: hsl(47, 88%, 63%);
     width: 500px;
+    padding: 50px;
 }
 
 .white-box {
-    border: 50px solid red;
+    border: 5px solid red;
 
     height: 500px;
-    padding: 50px;
+    padding: 5px;
 }
 
 #summary {
