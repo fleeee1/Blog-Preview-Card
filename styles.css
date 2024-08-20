@@ -1,6 +1,5 @@
 body {
     display: flex;
-    flex-direction: column;
     align-items: center;
     margin: 0;
     height: 100vh;
@@ -8,21 +7,43 @@ body {
 
 .yellow-container {
     flex: auto;
-    border: 5px solid red;
-    background-color: white;
-    
+    background-color: rgb(244, 217, 82);
+    padding: 50px;
     width: auto;
 
 }
 
 .white-box {
-flex: auto;
-    border: 5px solid blue;
-margin: auto;
-    height: 500px;
+    flex: auto;
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: white;
+    margin: auto;
+    height: 450px;
+    width: 300px;
     padding: 5px;
+}
+
+#graphic {
+
+}
+
+#learning {
+
+}
+
+#published {
+
+}
+
+#course {
+
 }
 
 #summary {
     font-size: 16px;
+}
+
+#footer {
+    
 }
