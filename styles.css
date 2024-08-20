@@ -8,8 +8,7 @@ body {
 .yellow-container {
     flex: auto;
     background-color: rgb(244, 217, 82);
-    padding: 50px;
-    width: auto;
+    padding: 500px;  // how else do i get the yellow to encompass the entire screen?
 
 }
 
