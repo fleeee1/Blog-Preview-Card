@@ -6,7 +6,6 @@ body {
 }
 
 .yellow-container {
-    flex: auto;
     background-color: rgb(244, 217, 82);
     padding: 500px;  // how else do i get the yellow to encompass the entire screen?
 
@@ -52,22 +51,22 @@ body {
 }
 
 #summary {
-    font-size: 20px;
-    font: red;
+    font-size: 18px;
+    color: grey;
     margin-top: 20px;
-    line-height: 1.75;
+    line-height: 1.5;
 }
 
 #footer {
     display: flex;
-    
+    flex-direction: row;
     margin-top: 20px;
 }
 
 #avatar {
-    float: left;
+    
 }
 
 #author {
-    margin-top: 45px;
+
 }
