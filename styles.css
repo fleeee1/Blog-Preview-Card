@@ -52,7 +52,8 @@ body {
 }
 
 #summary {
-    font-size: 16px;
+    font-size: 20px;
+    font: red;
     margin-top: 20px;
     line-height: 1.75;
 }
@@ -64,8 +65,9 @@ body {
 }
 
 #avatar {
-    
+    float: left;
 }
+
 #author {
-    
+    margin-top: 45px;
 }
