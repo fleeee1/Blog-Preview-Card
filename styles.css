@@ -1,8 +1,8 @@
 body {
     display: flex;
     align-items: center;
-    margin: 0;
     height: 100vh;
+    width: 1440px;
 }
 
 .yellow-container {
@@ -28,7 +28,7 @@ body {
 }
 
 #learning {
-
+    margin-top: 75px;
 }
 
 #published {
@@ -44,5 +44,5 @@ body {
 }
 
 #footer {
-    
+
 }
