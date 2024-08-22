@@ -24,8 +24,8 @@ body {
     box-shadow: 10px 10px black;
 }
 
-#graphic {
-
+img {
+    border-radius: 12px;
 }
 
 #learning {
